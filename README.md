@@ -1,6 +1,6 @@
-# WARP – distorsionador multibanda taltaltaltal no sé que weás, esto me lo hizo Claude bro (JUCE 8)
+# RAF-TAKE (anteriormente WARP) – distorsionador multibanda taltaltaltal no sé que weás, esto me lo hizo Claude bro...
 
-weá rara de RAFAKE: curva de transferencia visual + modulación.
+rareza hecha por el único miembro de Zacci Records: curva de transferencia visual + modulación y otras cochinadas que no me acuerdo.
 
 ## Características
 - 3 bandas (crossovers Linkwitz-Riley de 4º orden con compensación de fase)
