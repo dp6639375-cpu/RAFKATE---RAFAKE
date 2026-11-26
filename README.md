@@ -1,4 +1,4 @@
-# WARP – distorsionador multibanda visual (JUCE 8)
+# WARP – distorsionador multibanda taltaltaltal no sé que weás, esto me lo hizo Claude bro (JUCE 8)
 
 weá rara de RAFAKE: curva de transferencia visual + modulación.
 
