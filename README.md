@@ -1,4 +1,4 @@
-# RAF-TAKE (anteriormente WARP) – distorsionador multibanda taltaltaltal no sé que weás, esto me lo hizo Claude bro (JUCE 8)
+# RAF-KATE (anteriormente WARP) – distorsionador multibanda taltaltaltal no sé que weás, esto me lo hizo Claude bro (JUCE 8)
 
 weá rara de RAFAKE: curva de transferencia visual + modulación.
 
