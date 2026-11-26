@@ -1,6 +1,6 @@
 # WARP – distorsionador multibanda visual (JUCE 8)
 
-Inspirado en el concepto de RIFT (Minimal Audio): curva de transferencia visual + modulación.
+weá rara de RAFAKE: curva de transferencia visual + modulación.
 
 ## Características
 - 3 bandas (crossovers Linkwitz-Riley de 4º orden con compensación de fase)
